@@ -34,7 +34,7 @@ nlp-vision-experiments/
 
 ---
 
-## 🚀 Modules Overview
+## Modules Overview
 
 ### Unit 01: NLP & Text Preprocessing Techniques
 
