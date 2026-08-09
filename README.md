@@ -1,14 +1,13 @@
 # Natural Language Processing & Computer Vision Experiments
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active_Development-orange.svg)]()
 
 A curated collection of practical implementations, algorithmic experiments, and foundational scripts covering **Natural Language Processing (NLP)** and **Computer Vision (CV)**. This repository serves as a modular codebase for text preprocessing, tokenization, regular expressions, pattern extraction, and vision processing algorithms.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 nlp-vision-experiments/
@@ -60,7 +59,7 @@ Focuses on standardizing string inputs, tokenization, frequency distributions, a
 
 ---
 
-## 🛠️ Usage & Setup
+## Usage & Setup
 
 ### Prerequisites
 - Python 3.8 or higher installed on your system.
@@ -74,14 +73,9 @@ python "Unit-01/NLP and Preprocessing techniques/01-Python-basics-for-text/14-mi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x
 - **Libraries:** Standard Library (`re`, `string`, `collections`, `math`)
 - **Domain:** Natural Language Processing (NLP), Computer Vision (CV)
 
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for details.
