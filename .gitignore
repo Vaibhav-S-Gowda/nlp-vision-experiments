@@ -35,3 +35,7 @@ ENV/
 # OS Generated
 .DS_Store
 Thumbs.db
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
